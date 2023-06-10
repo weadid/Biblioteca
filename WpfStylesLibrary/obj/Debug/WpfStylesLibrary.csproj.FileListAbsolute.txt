@@ -1,0 +1,16 @@
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\bin\Debug\WpfStylesLibrary.dll
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\bin\Debug\WpfStylesLibrary.pdb
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary.csproj.AssemblyReference.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\Themes\Styles.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\Themes\Styles2.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary_MarkupCompile.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary_MarkupCompile.lref
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\Themes\Generic.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary.g.resources
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary.Properties.Resources.resources
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary.csproj.GenerateResource.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary.dll
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\WpfStylesLibrary.pdb
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\WpfStylesLibrary\obj\Debug\Themes\StylesDif.baml

@@ -1,0 +1,39 @@
+﻿<Page x:Class="practic_no5_col.Pages.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:practic_no5_col.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition/>
+                <ColumnDefinition  Width="60"/>
+                <ColumnDefinition Width="80"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="PreviousButton" Content="&lt;" FontSize="24" Click="PreviousButton_Click"/>
+            <Label x:Name="MonthLable" Grid.Column="1" HorizontalAlignment="Center" FontSize="30" />
+            <Button x:Name="CalendarButton" Grid.Column="2" Cursor="Hand" Click="CalendarButton_Click">
+                <Button.Background>
+                    <ImageBrush ImageSource="/Resoucres/Calendar.jpg"/>
+                </Button.Background>
+            </Button>
+            <Button x:Name="NextButton" Content=">" FontSize="24" Grid.Column="3" Click="NextButton_Click"/>
+        </Grid>
+        <ScrollViewer Grid.Row="1" HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Auto">
+            <WrapPanel x:Name="DayWrapPanel" />
+        </ScrollViewer>
+        <Calendar x:Name="Calendar" Grid.Row="1" HorizontalAlignment="Left" Visibility="Hidden" SelectedDatesChanged="Calendar_SelectedDatesChanged" />
+    </Grid>
+</Page>

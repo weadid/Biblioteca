@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="practic_no5_col.UserControls.DateUserConrol"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:practic_no5_col"
+             mc:Ignorable="d"
+             Height="60" Width="60" Cursor="Hand" Background="#FF60C8FF" Margin="5" MouseLeftButtonUp="UserControl_MouseLeftButtonUp">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="24"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="DayLabel" HorizontalAlignment="Center" FontSize="16"/>
+        <Image x:Name="DayImage" Grid.Row="1" Source="/Resoucres/Ellipsis.png" />
+    </Grid>
+</UserControl>

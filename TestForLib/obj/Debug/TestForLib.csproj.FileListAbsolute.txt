@@ -1,0 +1,11 @@
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\bin\Debug\TestForLib.exe.config
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\bin\Debug\TestForLib.exe
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\bin\Debug\TestForLib.pdb
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\bin\Debug\LibrarySerialization.dll
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\bin\Debug\LibrarySerialization.pdb
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\obj\Debug\TestForLib.csproj.AssemblyReference.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\obj\Debug\TestForLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\obj\Debug\TestForLib.csproj.CoreCompileInputs.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\obj\Debug\TestForLib.csproj.CopyComplete
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\obj\Debug\TestForLib.exe
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\TestForLib\obj\Debug\TestForLib.pdb

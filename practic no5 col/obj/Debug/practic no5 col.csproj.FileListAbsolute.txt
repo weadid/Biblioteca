@@ -1,0 +1,54 @@
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\bin\Debug\practic no5 col.exe.config
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\bin\Debug\practic no5 col.exe
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\bin\Debug\practic no5 col.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col_MarkupCompile.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col_MarkupCompile.lref
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col.g.resources
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic_no5_col.Properties.Resources.resources
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col.exe
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\practic no5 col.pdb
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\App.baml
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\Windows\MainWindow.baml
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\Pages\MainPage.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\UserControls\DateUserConrol.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\Pages\MainPage.baml
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\UserControls\DateUserConrol.baml
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\Pages\DatePage.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\UserControls\ExerciseUserControl.g.cs
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\Pages\DatePage.baml
+C:\Users\user\Desktop\Любите калькулятор))00))0)))))!01010)))!0)100)1001\practic no5 col\practic no5 col\obj\Debug\UserControls\ExerciseUserControl.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\bin\Debug\practic no5 col.exe.config
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\bin\Debug\practic no5 col.exe
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\bin\Debug\practic no5 col.pdb
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\bin\Debug\WpfStylesLibrary.dll
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\bin\Debug\WpfStylesLibrary.pdb
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.AssemblyReference.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.SuggestedBindingRedirects.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\Test.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\Pages\DatePage.g.cs
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\Pages\MainPage.g.cs
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\UserControls\DateUserConrol.g.cs
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\UserControls\ExerciseUserControl.g.cs
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\App.g.cs
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col_MarkupCompile.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col_MarkupCompile.lref
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\Pages\DatePage.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\Pages\MainPage.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\UserControls\DateUserConrol.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\UserControls\ExerciseUserControl.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\Windows\MainWindow.baml
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.g.resources
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic_no5_col.Properties.Resources.resources
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.GenerateResource.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.CoreCompileInputs.cache
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.csproj.CopyComplete
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.exe
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\practic no5 col.pdb
+C:\Users\GTai\Desktop\Папка Риты\2библы\practic no5 col\practic no5 col\practic no5 col\obj\Debug\App.baml
